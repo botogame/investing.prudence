@@ -111,3 +111,5 @@
 ![](./Картинки/plan.png)
 
 ![](./Картинки/my_representatives.png)
+
+![](./Картинки/representatives_for_cooperation.png)

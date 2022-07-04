@@ -109,3 +109,5 @@
 Пример:
 
 ![](./Картинки/plan.png)
+
+![](./Картинки/my_representatives.png)

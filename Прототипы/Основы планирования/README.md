@@ -108,8 +108,8 @@
 
 Пример:
 
-![](./Картинки/plan.png)
+![](./Картинки/plan2.png)
 
-![](./Картинки/my_representatives.png)
+![](./Картинки/my_representatives2.png)
 
-![](./Картинки/representatives_for_cooperation.png)
+![](./Картинки/representatives_for_cooperation2.png)
